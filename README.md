@@ -12,8 +12,10 @@
 
 <!-- PROJECT SHIELDS -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-<h3 align="center">List It</h3>
+<div align="center">
+  <img src="src/assets/LogoFast.svg" alt="Logo" width="100" height="100">
+  <h3 align="center">List It</h3>
+</div>
 
   <p align="center">
     List It is a simple React application for managing todo items. It allows users to add, edit, and delete todo items.
@@ -64,21 +66,17 @@ To run this project locally, follow these steps:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<!-- USAGE EXAMPLES -->
+<!-- USAGE EXAMPLES-->
 ## Usage
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- USAGE -->
-## Usage
+![Screenshot 1](src/assets/screenshot1.png)
+![Screenshot 2](src/assets/screenshot2.png)
 
 * Add a new todo item by entering text in the input field and clicking the "Add" button.
 * Edit an existing todo item by clicking on it. This will populate the input field with the item's text. After editing, click the "Update" button.
 * Delete a todo item by clicking the delete button next to it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- LICENSE -->
 ## License
@@ -87,13 +85,13 @@ This project is licensed under the MIT License - see the `LICENSE.txt` for more 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- CONTACT -->
 ## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/lucadand) [![Twitter](https://img.shields.io/twitter/follow/LucaDAndrea92?style=social)](https://twitter.com/LucaDAndrea92)
 
-Luca D'Andrea - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Project Link:  [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-green?logo=github)](https://github.com/lucadand/reactjs-todolist)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+[luca.dandrea92@gmail.com](mailto:luca.dandrea92@gmail.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
